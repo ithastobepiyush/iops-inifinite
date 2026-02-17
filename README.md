@@ -26,7 +26,7 @@ This project is **open for contributions**. If you’d like to suggest changes, 
 - HTML5, Bootstrap 4
 - jQuery, Slick (carousel), Magnific Popup (lightbox)
 - Font Awesome 5.5
-- Custom CSS (`tooplate-infinite-loop.css`)
+- Custom CSS
 
 ## Getting Started
 
